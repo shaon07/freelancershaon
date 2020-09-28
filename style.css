@@ -1,0 +1,549 @@
+*
+{
+	margin: 0;
+	padding: 0;
+}
+body
+{
+	position: relative;
+}
+.topheader {
+	background: linear-gradient(to right, #CAD0FA7A 50%, #ffffffd6 50%);
+}
+.navbartext {
+	font-size: 27px;
+	display: inline-block;
+	color: black;
+	font-weight: bold;
+	position: relative;
+	left: -16px;
+}
+.navbrand {
+	color: white;
+	background: #4040fdeb;
+	padding: 4px 15px;
+	border-radius: 50%;
+	font-weight: bold;
+	font-size: 26px;
+}
+.nav-item
+{
+	padding: 0 8px;
+}
+.nav-link
+{
+	font-size: 18px;
+	color: black;
+}
+.mx-auto.text-center.py-5.top-title {
+	padding: 8rem 0 !important;
+}
+.toptext1 {
+	color: #3e64ff;
+	font-weight: bold;
+	opacity: .9;
+}
+.toptext2 {
+	color: black;
+	font-weight: bold;
+	font-size: 60px;
+	padding: 12px 0;
+}
+.toptext3 {
+	color: black;
+	font-weight: bold;
+}
+.slide-text
+
+{
+	color: blue;
+	text-decoration: underline;
+}
+
+
+				/* header section end */
+
+				/* about sec */
+.aboutme2 h2
+{
+	color: black;
+	font-weight: bold;
+	font-size: 55px;
+	text-align: left;
+	padding: 15px 0;
+}
+.aboutme2 p
+{
+	text-align: left;
+	line-height: 25px;
+	font-weight: bold;
+	opacity: .8;
+}
+.testimonial
+{
+	text-align: left;
+}
+.one {
+	width: 30%;
+	font-size: 20px;
+	font-weight: bold;
+}
+.two {
+	/* font-weight: bold; */
+	color: gray;
+	font-size: 18px;
+	padding-top: 4px;
+}
+.aboutme2 h3 {
+	color: blue;
+	text-align: left;
+	padding: 30px 0;
+}
+.aboutme2 h3 span {
+	color: black;
+	padding-left: 10px;
+}
+.imgsize {
+	width: 100%;
+	height: 100%;
+	transform: scale(1.3);
+	position: relative;
+	top: 15%;
+}
+.aboutme1
+{
+	overflow: hidden;
+}
+				/* about sec end */
+
+				/* expericance sec */
+.performance a {
+	text-decoration: none !important;
+	padding: 5px 0;
+	font-size: 18px;
+	color: black;
+	font-weight: bold;
+	opacity: 0.7;
+	position: relative;
+	top: 80px;
+}
+.performance
+{
+	position: sticky !important;
+top: 23px !important;
+}
+.educationtext
+{
+	color: #3434fbb0;
+	font-weight: bold;
+	font-size: 34px;
+	padding-bottom: .8rem;
+}
+.education span {
+	background: blue;
+	color: white;
+	padding: 8px 16px;
+	font-size: 35px;
+	border-radius: 50%;
+}
+.education-info h5 {
+	font-weight: bold;
+	color: #4747ffeb;
+}
+.education-info h4 {
+	font-weight: bold;
+	font-size: 25px;
+	padding-bottom: .8rem;
+}
+.education-info p {
+	font-size: 17px;
+}
+.education-info
+{
+	padding-left: 3rem;
+}
+.div1
+{
+	border-bottom: 1px solid #c1bcbc;
+}
+.htmlpart
+{
+
+}
+.loader {
+  border: 7px solid red;
+  border-radius: 50%;
+  border-top: 7px solid #e1e5e8;
+  width: 150px;
+  height: 150px;
+  transform:rotate(-38deg);
+  margin: 2rem 0 0 2.3rem;
+}
+.loadcss
+{
+	transform: rotate(-55deg) !important;
+}
+.loadjq
+{
+	transform: rotate(-66deg) !important;
+}
+.text-skill {
+	position: relative;
+	top: -6rem;
+}
+.last-use1
+{
+	width: 50%;
+}
+.last-use1 h4
+{
+	font-weight: bold;
+}
+* {box-sizing: border-box}
+
+.container2 {
+  width: 100%;
+  background-color: #ddd;
+}
+
+.skills {
+  text-align: right;
+  padding: 4px;
+  color: white;
+}
+.skill-bar p {
+	margin-bottom: 0;
+	padding-top: 20px;
+	padding-bottom: 8px;
+}
+
+.html {width: 90%; background-color: blue;}
+.css {width: 85%; background-color: blue;}
+.js {width: 65%; background-color: blue;}
+.psa {width: 90%; background-color: blue;}
+.pss {width: 93%; background-color: blue;}
+.psc {width: 88%; background-color: blue;}
+.psd {width: 70%; background-color: blue;}
+.php {width: 85%; background-color: blue;}
+				/* expericance sec end */
+
+
+				/* service sec */
+.service-text h2 {
+	font-weight: bold;
+	font-size: 50px;
+	padding: 10px;
+}
+.service-text p {
+	font-size: 18px;
+}
+.service-page {
+	background: white;
+	padding: 30px;
+	color: black;
+	border-radius: 6px;
+	transition: all .5s;
+}
+.service-page span
+{
+	color: #7474ee;
+	font-size: 40px;
+}
+.service-page p
+{
+	color: black !important;
+}
+.service-page:hover
+{
+	background: blue;
+}
+.service-page:hover span
+{
+  color: white !important;
+}
+
+				/* service sec end */
+
+				/*our projects*/
+.our-project h3
+{
+	font-weight: bold;
+	font-size: 50px;
+}
+.project-sec h3
+{
+   font-weight: bold;
+   color: blue;
+}
+.project-sec h6
+{
+   font-weight: bold;
+   font-size: 24px;
+}
+				/*our projectsend */
+
+				/*our blogs*/
+.blogs a
+{
+	text-decoration: none !important;
+	font-size: 24px;
+	text-align: left !important;
+	display: block;
+	color: #000000;
+}
+.blogs h5
+{
+	color: blue;
+	font-weight: bold;
+	display: inline-block;
+	cursor: pointer;
+}
+.blogs p
+{
+	font-size: 18px;
+}
+.blogs img
+{
+	overflow: hidden;
+	width: 100% !important;
+	height: 15rem !important;
+}
+				/*our blogs end */
+
+				/*im available*/
+.im
+{
+	background: url('img/bg_1.jpg') no-repeat center center;
+	position: relative;
+	background-size: cover;
+	z-index: 1;
+}
+.im::before
+{
+	content: "";
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgb(2,0,251,0.4);
+	z-index: -1;
+}
+.mytime h2
+{
+	color: white;
+	font-weight: bold;
+	font-size: 40px;
+}
+				/*im available end */
+
+			     /*contact one*/
+.contact-one span
+{
+	background: blue;
+	padding: 35px 30px;
+	border-radius: 50%;
+}
+.contact-one span i
+{
+	font-size: 30px;
+	line-height: 30px;
+	color: white;
+	position: relative;
+	top: 5px;
+}
+.contact-one
+{
+	padding: 5rem 3rem;
+	border-radius: 5px;
+}
+
+input[type=text], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=email], select, textarea {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  resize: vertical;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+  padding: 12px 20px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+.container2 {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+.footer-img
+{
+	overflow: hidden;
+}
+
+.imgsize2
+{
+	width: 100%;
+	height: 100%;
+	transform: scale(1.2) top;
+}
+
+			     /*contact one end */
+
+			     /*footer*/
+.bg-dark2
+{
+	background: black;
+}
+.about span
+{
+	background: dark;
+	padding: 17px 10px;
+	border-radius: 50%;
+}
+.about span i
+{
+	font-size: 35px;
+	position: relative;
+	top: 7px;
+	background: transparent;
+}
+.about2 a {
+	display: block;
+	text-decoration: none !important;
+	padding: 5px;
+	color: #999;
+	font-weight: bold;
+}
+.about2 h3
+{
+	color: white;
+	font-weight: bold;
+}
+			     /*footer end */
+
+
+			     .active
+			     {
+			     	color: blue;
+			     	border-bottom: 2px solid blue;
+			     }
+			     .nav-item
+			     {
+			     	border-bottom: 2px solid transparent;
+			     	transition: .4s;
+			     }
+
+			     .active2
+			     {
+			     	color: red;
+
+			     }
+			     .top span
+			     {
+			     	padding: 17px 15px;
+    				border-radius: 50%;
+    				background: red;
+			     }
+			     .top span i
+			     {
+			     	font-size: 38px;
+				    position: relative;
+				    top: 7px;
+
+			     }
+			     .top
+			     {
+			     	    position: fixed;
+    					right: 0;
+    					z-index: 1;
+			     }
+			     .navdot1, .navdot2, .navdot3
+			     {
+			     	background: red;
+			     	width: 35px;
+			     	height: 2px;
+			     	margin-top: 8px;
+
+			     }
+			     .contact-one
+			     {
+			     	transition: .4s;
+			     }
+			     .contact-one:hover
+			     {
+			     	transform: scale(1.1);
+			     	background: black;
+			     	color: white;
+			     }
+			     .blogs
+			     {
+			     	overflow: hidden;
+			     	transition: .4s;
+			     }
+			     .blogs img
+			     {
+			     	transition: .4s;
+			     }
+			     .blogs img:hover
+			     {
+			     	transform: scale(1.1);
+			     }
+			     .project-sec
+			     {
+			     	transition: .4s;
+			     	border-radius: 5px;
+			     }
+			     .project-sec:hover
+			     {
+			     	transform: scale(1.1);
+			     	background: black;
+			     	color: white;
+			     }
+			     .htmlpart
+			     {
+			     	transition: .4s;
+			     	border-radius: 5px;
+			     }
+			     .htmlpart:hover
+			     {
+			     	transform: scale(1.1);
+			     	background: black;
+			     	color: white;
+			     }
+			     .aboutme1
+			     {
+			     	transition: .4s;
+			     	overflow: hidden;
+			     }
+			  
+			     }
+			    .footer-img
+			    {
+			    	transition: .5s;
+			    	overflow: hidden;
+			    }
+			    

@@ -1,0 +1,493 @@
+@media (min-width: 1201px) {
+	.service-page
+	{
+		height: 18rem;
+	}
+}
+
+@media (min-width: 1200px) {
+	.loader {
+    margin: 2rem 0 0 2rem;
+}
+}
+
+@media (max-width: 1200px) {
+	.loader
+	{
+		    margin: 2rem 0 0 2rem;
+	}
+	.project-sec
+	{
+		height: 13rem;
+	}
+	.contact-one
+	{
+		height: 21.6rem;
+	}
+	.service-page
+	{
+		    height: 22rem;
+	}
+	.service-page p
+	{
+    font-size: 20px;
+	}
+	.lineone {
+    font-size: 16px !important;
+	}
+}
+@media (max-width: 1199px) {
+	.loader
+	{
+		    margin: 2rem 0 0 .6rem;
+	}
+	}
+
+@media (max-width: 992px) {
+	a.nav-link {
+    font-size: 14px;
+    padding: 10px 0;
+}
+	.aboutme2 h2 
+	{
+		font-size: 40px;
+	}
+	.loader
+	{
+		    margin: 2rem 0 0 1.6rem;
+	}
+	.service-page p
+	{
+    font-size: 28px;
+	}
+	.lineone {
+    font-size: 16px !important;
+	}
+	.project-sec
+	{
+		padding-top: 5rem !important;
+	}
+	.blogs a
+	{
+		font-size: 16px;
+	}
+	.blogs h5
+
+	{
+		font-size: 14px;
+	}
+	.blogs p
+	{
+		font-size: 14px;
+	}
+	.footer-p
+	{
+		font-size: 17px !important;
+	}
+}
+@media (max-width: 768px) {
+	.loader
+	{
+		margin: 2rem 0 0 1.3rem;
+	}
+	.service-page span {
+    font-size: 60px;
+    }
+    .service-page p {
+    font-size: 22px;
+    }
+    .project-sec h3 {
+    font-size: 28px;
+	}
+	.project-sec h6 {
+    font-size: 45px;
+	}
+	.blogs img {
+    height: 20rem !important;
+	}
+	.blogs a {
+    font-size: 25px;
+	}
+	.blogs h5 {
+    font-size: 20px;
+	}
+	.blogs p {
+    font-size: 18px;
+	}
+	.contact-one span {
+    padding: 50px 35px;
+	}
+	.contact-one span i {
+    font-size: 45px;
+    top: 12px;
+	}
+	.contact-one h3 {
+    position: relative;
+    top: 15px;
+    padding: 20px;
+    font-size: 30px;
+	}
+	.contact-one p {
+    font-size: 20px;
+	}
+	.imgsize2 {
+    position: relative;
+    left: 6rem;
+	}
+	.about2 h3 {
+    padding-top: 25px;
+	}
+	.blogs a {
+    font-size: 18px;
+	}
+	.blogs h5 {
+    font-size: 15px;
+	}
+	.blogs p {
+    font-size: 15px;
+	}
+
+}
+@media (max-width: 767px)
+ {
+ .loader {
+    margin: 2rem 0 0 10.3rem;
+}
+}
+@media (max-width: 576px) {
+	.toptext2
+	{
+		font-size: 50px;
+	}
+	.toptext3
+	{
+		font-size: 25px;
+	}
+	.loader {
+    margin: 2rem 0 0 11.3rem;
+	}
+	.skill-bar p
+	{
+		font-size: 20px;
+	}
+	.blogs img {
+    height: 25rem !important;
+	}
+}
+
+@media (max-width: 565px) {
+	.loader
+	{
+		margin-left: 33.5%;
+	}
+}
+
+@media (max-width: 530px) {
+	.loader
+	{
+		margin-left: 10rem;
+		color-profile: 
+	}
+}
+
+@media (max-width: 520px) {
+	.loader
+	{
+		margin-left: 9.4rem;
+		color-profile: 
+	}
+	.toptext2 {
+    font-size: 45px;
+	}
+}
+
+@media (max-width: 500px) {
+	.loader
+	{
+		margin-left: 9rem;
+		color-profile: 
+	}
+}
+@media (max-width: 490px) {
+	.loader
+	{
+		margin-left: 8.5rem;
+		color-profile: 
+	}
+}
+@media (max-width: 475px) {
+	.loader
+	{
+		margin-left: 8rem;
+		color-profile: 
+	}
+}
+@media (max-width: 466px) {
+	.toptext2 {
+    font-size: 40px;
+	}
+	.toptext1
+	{
+		font-size: 20px;
+	}
+	.toptext3 {
+    font-size: 22px;
+	}
+	.aboutme2 h2 {
+    font-size: 35px;
+	}
+	.project-sec h3 {
+    font-size: 35px;
+	}
+	.footer-text {
+    font-size: 13px;
+	}
+	.education-info h4 {
+    font-size: 20px;
+	}
+	.education-info h5 {
+    font-size: 15px;
+	}
+}
+@media (max-width: 460px) {
+	.loader
+	{
+		margin-left: 7.4rem;
+		color-profile: 
+	}
+	.service-page p {
+    font-size: 25px;
+	}
+}
+@media (max-width: 445px) {
+	.loader
+	{
+		margin-left: 7rem;
+		color-profile: 
+	}
+}
+@media (max-width: 430px) {
+	.loader
+	{
+		margin-left: 6.5rem;
+		color-profile: 
+	}
+}
+@media (max-width: 415px) {
+	.loader
+	{
+		margin-left: 5.8rem;
+		color-profile: 
+	}
+	.toptext3 {
+    font-size: 20px;
+	}
+	.toptext2 {
+    font-size: 35px;
+	}
+	.toptext1 {
+    font-size: 15px;
+	}
+	.service-page p {
+    font-size: 25px;
+	}
+	.project-sec h3 {
+    font-size: 30px;
+	}
+	.project-sec h6 {
+    font-size: 35px;
+	}
+	.lineone {
+    font-size: 17px !important;
+    font-weight: normal !important;
+	}
+	.imgsize2 {
+    left: 4rem;
+	}
+}
+@media (max-width: 395px) {
+	.loader
+	{
+		margin-left: 5.4rem;
+		color-profile: 
+	}
+}
+@media (max-width: 380px) {
+	.loader
+	{
+		margin-left: 5rem;
+		color-profile: 
+	}
+	.imgsize2 {
+    position: relative;
+    left: 4rem;
+	}
+	.blogs img {
+    height: 19rem !important;
+	}
+	.service-page p {
+    font-size: 23px;
+	}
+	.toptext2 {
+    font-size: 30px;
+	}
+}
+@media (max-width: 370px) {
+	.loader
+	{
+		margin-left: 4.6rem;
+		color-profile: 
+	}
+}
+@media (max-width: 363px) {
+	.toptext1 {
+    font-size: 12px;
+	}
+	.toptext2 {
+    font-size: 30px;
+	}
+	.aboutme2 h2 {
+    font-size: 30px;
+	}
+	.aboutme2 p {
+    font-size: 13px;
+	}
+	.one {
+    font-size: 17px;
+	}
+	.two {
+    font-size: 17px;
+    padding-top: 0px;
+	}
+	.lineone {
+    font-size: 15px !important;
+    font-weight: normal !important;
+	}
+	.service-page p {
+    font-size: 28px;
+	}
+	.project-sec h3 {
+    font-size: 24px;
+	}
+	.project-sec h6 {
+    font-size: 25px;
+	}
+	.our-project h3 {
+    font-weight: bold;
+    font-size: 40px;
+	}
+	.blogs a {
+    font-size: 20px;
+	}
+	.blogs h5 {
+    font-size: 15px;
+	}
+	.blogs p {
+    font-size: 14px;
+	}
+	.blogs img {
+    height: 20rem !important;
+	}
+	.imgsize2 {
+    position: relative;
+    left: 4rem;
+	}
+}
+@media (max-width: 360px) {
+	.loader
+	{
+		margin-left: 4.2rem;
+		color-profile: 
+	}
+}
+@media (max-width: 345px) {
+	.loader
+	{
+		margin-left: 3.5rem;
+		color-profile: 
+	}
+}
+@media (max-width: 325px) {
+	.loader
+	{
+		margin-left: 3rem;
+		color-profile: 
+	}
+}
+@media (max-width: 320px) {
+	.service-page p {
+    font-size: 20px;
+	}
+}
+@media (max-width: 315px) {
+	.loader
+	{
+		margin-left: 2.8rem;
+		color-profile: 
+	}
+	.toptext2 {
+    font-size: 25px;
+	}
+	.toptext3 {
+    font-size: 15px;
+	}
+	.one {
+    font-size: 12px;
+	}
+	.two {
+    font-size: 14px;
+    padding-top: 0px;
+    padding-left: 20px;
+	}
+	.educationtext {
+    font-size: 30px;
+	}
+	.education-info h5 {
+    font-size: 12px;
+	}
+	.education-info h4 {
+    font-size: 15px;
+	}
+	.education-info p {
+    font-size: 12px;
+	}
+	.project-sec h3 {
+    font-size: 19px;
+	}
+	.blogs img {
+    height: 16rem !important;
+	}
+	.mytime h2 {
+    font-size: 30px;
+	}
+	.contact-one span {
+    padding: 35px 26px;
+	}
+	.contact-one span i {
+    font-size: 33px;
+    top: 9px;
+	}
+	.contact-one p {
+    font-size: 15px;
+	}
+	.contact-one h3
+	{
+		font-size: 25px;
+	}
+	.imgsize2 {
+    position: relative;
+    left: 3rem;
+	}
+}
+@media (max-width: 304px) {
+	.service-page p {
+    font-size: 24px;
+	}
+}
+@media (max-width: 300px) {
+	.loader
+	{
+		margin-left: 2.2rem;
+		color-profile: 
+	}
+}
